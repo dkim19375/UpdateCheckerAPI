@@ -1,0 +1,6 @@
+name: UpdateCheckerAPI
+version: @version@
+main: me.dkim19375.updatecheckerapi.UpdateCheckerAPI
+api-version: 1.13
+authors: [ dkim19375 ]
+description: An API to check for plugin updates
